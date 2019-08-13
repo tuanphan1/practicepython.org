@@ -1,3 +1,4 @@
+
 # The next logical step is to deal with handling user input. When a player (say player 1, who is X) 
 # wants to place an X on the screen, they can’t just click on a terminal. So we are going to 
 # approximate this clicking simply by asking the user for a coordinate of where they want to place

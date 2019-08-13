@@ -1,3 +1,4 @@
+
 # Time for some fake graphics! Let’s say we want to draw game boards that look like this:
 
 #  --- --- --- 
